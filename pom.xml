@@ -10,4 +10,12 @@
   <version>1.0.0</version>
   <name>¿Cómo se lee del teclado?</name>
   <description>Desafío básico de lectura de números por teclado.</description>
+  
+  <repositories>
+		<repository>
+			<id>programaconsaba-maven-repo</id>
+			<name>Maven repo en Git</name>
+			<url>https://raw.githubusercontent.com/programaconsaba/maven-repo/master/</url>
+		</repository>
+	</repositories>
 </project>
