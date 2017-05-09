@@ -23,7 +23,7 @@ Son buenas prácticas cerrar los recursos abiertos :)
 
     in.close();
 
-Se puede consultar el proceso paso a paso en la URL [https://programaconsaba.com/desafios/test](https://programaconsaba.com/desafios/test "https://programaconsaba.com/desafios/test")   
+Se puede consultar el proceso paso a paso en la URL [https://programaconsaba.com/desafios](https://programaconsaba.com/desafios "https://programaconsaba.com/desafios")   
 
 # License
     desafios - source code for the https://programaconsaba.com/desafios application
